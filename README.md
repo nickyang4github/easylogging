@@ -8,5 +8,5 @@ See https://github.com/ketoo/NoahGameFrame/tree/develop/NFComm/NFLogPlugin
 
 What is Next?
 -------------------
-Add log color in console, based glog
+Add log color in console, based on glog
 ...
