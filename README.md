@@ -1,5 +1,5 @@
 # easylogging
-Based on [easyloggingpp](https://github.com/easylogging/easyloggingpp), add file rolling by hour.
+Based on [easyloggingpp](https://github.com/easylogging/easyloggingpp), add rolling file by hour.
 
 How to use it?
 -------------------
